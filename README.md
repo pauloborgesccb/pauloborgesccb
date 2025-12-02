@@ -6,15 +6,17 @@
   </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="PauloBorges-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="PauloBorges-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-<img align="center" alt="PauloBorges-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="PauloBorges-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="PauloBorges-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="PauloBorges-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-<img align="center" alt="PauloBorges-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-<img align="center" alt="PauloBorges-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-<img align="center" alt="PauloBorges-Aws" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
-<img align="center" alt="PauloBorges-Ionic" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
+ <img align="center" alt="PauloBorges-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/v2.17.0/icons/javascript/javascript-plain.svg">
+<img align="center" alt="PauloBorges-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/v2.17.0/icons/typescript/typescript-plain.svg">
+<img align="center" alt="PauloBorges-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/v2.17.0/icons/react/react-original.svg">
+<img align="center" alt="PauloBorges-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/v2.17.0/icons/html5/html5-original.svg">
+<img align="center" alt="PauloBorges-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/v2.17.0/icons/css3/css3-original.svg">
+<img align="center" alt="PauloBorges-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/v2.17.0/icons/nodejs/nodejs-original.svg">
+<img align="center" alt="PauloBorges-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/v2.17.0/icons/php/php-original.svg">
+<img align="center" alt="PauloBorges-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/v2.17.0/icons/flutter/flutter-original.svg">
+<img align="center" alt="PauloBorges-Aws" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/v2.17.0/icons/amazonwebservices/amazonwebservices-original.svg">
+<img align="center" alt="PauloBorges-Ionic" height="30" width="40" src="ttps://github.com/devicons/devicon/blob/v2.17.0/icons/angular/angular-original-wordmark.svg">
+<img align="center" alt="PauloBorges-Ionic" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/v2.17.0/icons/ionic/ionic-original.svg">
   </div>
 
 ##
