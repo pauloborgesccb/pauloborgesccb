@@ -14,6 +14,7 @@
      <img align="center" alt="PauloBorges-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/css3/css3-original.svg">
      <img align="center" alt="PauloBorges-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/fastapi/fastapi-original.svg">
      <img align="center" alt="PauloBorges-Springboot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/spring/spring-original.svg">
+    <img align="center" alt="PauloBorges-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/laravel/laravel-original.svg">
      <img align="center" alt="PauloBorges-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/react/react-original.svg">
      <img align="center" alt="PauloBorges-Ionic" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/angular/angular-original.svg">
      <img align="center" alt="PauloBorges-Ionic" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/ionic/ionic-original.svg">
